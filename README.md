@@ -31,13 +31,13 @@ Many Proof of Stake cryptoart platforms currently exist. They are smaller than t
 
 #### Still using Ethereum:
 
-Lazy minting: This is not necessarily dramatically better, around 2x, or maybe 3x less carbon footprint. This is done by not creating an NFT until its first purchase.
+- Lazy minting: This is not necessarily dramatically better, around 2x, or maybe 3x less carbon footprint. This is done by not creating an NFT until its first purchase.
 
-Sidechains: NFTs are minted on non-Ethereum PoS sidechains, but can be moved onto Ethereum later. If they are not moved, they can be hundreds of times more efficient.
+- Sidechains: NFTs are minted on non-Ethereum PoS sidechains, but can be moved onto Ethereum later. If they are not moved, they can be hundreds of times more efficient.
 
-Bridges: Are specifically for making one blockchain ecosystem compatible with another blockchain. This can also be referred to as interoperability and allows chains to interact which otherwise cannot. The advantage of this is you can go from ETH to another less impactful chain without losing the data minted.
+- Bridges: Are specifically for making one blockchain ecosystem compatible with another blockchain. This can also be referred to as interoperability and allows chains to interact which otherwise cannot. The advantage of this is you can go from ETH to another less impactful chain without losing the data minted.
 
-Various Layer 2 (L2) scaling optimizations: Can be up to 100x more efficient.
+- Various Layer 2 (L2) scaling optimizations: Can be up to 100x more efficient.
 
 #### Using other blockchains:
 
@@ -45,94 +45,44 @@ Instead of Ethereum, other blockchains are used. This can be up to hundreds of t
 
 #### Using Eco-friendly platforms:
 
-KodaDot - open marketplace for all kinds of digital collectibles
-https://kodadot.xyz/
-Blockchain: Kusama/Polkadot
-implemented RMRK.app standard
-Open application (not invite only or curated)
-
-Viv3 - open marketplace for digital art
-https://viv3.com/
-Blockchain: Flow (by CryptoKitties folks, used by one of the largest NFT platforms, NBA topshots)
-Open application (not invite only or curated)
-
-hic et nunc - open marketplace for digital art
-https://www.hicetnunc.xyz/
-Blockchain: Tezos (XTZ)
-Open application (not invite only or curated) https://twitter.com/hicetnunc2000
-
-Kalamint - curated marketplace for digital art
-https://kalamint.io/
-Blockchain: Tezos (XTZ)
-Open application (not invite only or curated)
-
-SIGN Art - curated marketplace for digital art
-https://sign-art.app/
-Blockchain: Waves Protocol (WAVES)
-Open application (with a curated option)
-Free minting (Lazy mint on buy request)
-
-Atomic - open marketplace for all kinds of digital collectibles
-https://wax.atomichub.io/
-Blockchain: Wax
-open to everybody (not invite only or curated)
-
-Pixeos - open marketplace for digital art
-https://pixeos.io/
-Blockchain: EOS
-Open to everybody (not invite only or curated)
-
-Paras - curated marketplace for digital art cards
-https://paras.id/
-Blockchain: NEAR
-Open to everybody (not invite only or curated, but verified)
-
-NFTshowroom - open marketplace for digital art
-https://nftshowroom.com/
-Blockchain: HIVE
-Open to everybody (not invite only or curated, but verified)
-
-Eporio - open marketplace for digital art
-https://epor.io/
-Blockchain: xDai
-Open to everybody (not invite only or curated)
-
-Solible - marketplace for redeemable NFTs
-https://solible.com
-Blockchain: Solana (SOL)
-Open to everybody (how to mint)
-
-Lovada - inclusive marketplace for digital art
-https://twitter.com/lovadaart
-Blockchain: Cardano (ADA)
-Under development
-
-Stellar NFT
-https://stellarnft.com/
-Blockchain: Stellar (XLM)
-Open to everybody
+| Name        | Blockchain    | Site     |
+| :----:      |    :----:     |    :----:     |
+| KodaDot      | Kusama/Polkadot         | https://kodadot.xyz/   |
+| Viv3   | Flow (by CryptoKitties folks)          | https://viv3.com/    |
+| hic et nunc       | Tezos (XTZ)    |https://www.hicetnunc.xyz/     |
+| Kalamint      |    Tezos (XTZ)     |    https://kalamint.io/     |
+| SIGN Art     | Waves Protocol (WAVES)        | https://sign-art.app/   |
+| Atomic   | Wax         | https://wax.atomichub.io/      |
+| Pixeos        | EOS    | https://pixeos.io/     |
+| Paras      |    NEAR     |    https://paras.id/    |
+| NFTshowroom      | HIVE         | https://nftshowroom.com/   |
+| Eporio   | xDai         | https://epor.io/    |
+| Solible      |    Solana (SOL)     |    https://solible.com    |
+| Stellar NFT      | Stellar (XLM)         | https://stellarnft.com/   |
 
 
-There are more sustainable routes emerging. As Christina Akopova, cofounder of crypto art platform Pixeos — on the DPoS-based EOS blockchain rather than Ethereum — notes: “If you don’t buy the #cryptoart you like cause it’s not on ETH, you are basically an ETH tokens collector, not an art supporter.”
+
+There are more sustainable routes emerging. As Christina Akopova, cofounder of crypto art platform Pixeos — on the DPoS-based EOS blockchain rather than Ethereum — notes: 
+> “If you don’t buy the #cryptoart you like cause it’s not on ETH, you are basically an ETH tokens collector, not an art supporter.”
 
 Currently, these more sustainable platforms do not have the volume of their unsustainable counterparts (i.e. the Ethereum-based platforms). For this reason, collectors and sales are likely to be significantly lower too on the more sustainable alternatives. However, hopefully as more artists migrate to these emerging waters, this can encourage platforms, developers, investors and collectors, to bridge to develop more ecologically friendly and transparent platforms.
 
-*The platforms themselves can be more transparent on the matter, what would be great to see from CryptoArt / NFT platforms regarding sustainability:*
+### The platforms themselves can be more transparent on the matter, what would be great to see from CryptoArt / NFT platforms regarding sustainability:
 
-A statement of values
-A commitment to transparency, communication and guidance for CryptoArtists
-A roadmap (other than “We hope ETH2 will resolve the issue when it’s released in a year or two" - e.g. alternate chains, side chains, lazy minting, layer 2 scaling which are currently in the process of supporting. Including bounties to PoS chains and wallets to create a solution to PoW etc)
-A donation of proceeds to carbon credits or to subsidize the ecological footprint and their direct environmental impact
+- A statement of values.  
+- A commitment to transparency, communication and guidance for CryptoArtists.
+- A roadmap (other than “We hope ETH2 will resolve the issue when it’s released in a year or two" - e.g. alternate chains, side chains, lazy minting, layer 2 scaling which are currently in the process of supporting. Including bounties to PoS chains and wallets to create a solution to PoW etc).
+- A donation of proceeds to carbon credits or to subsidize the ecological footprint and their direct environmental impact.
 
 
 ### General consensus:
 
-NFTs themselves do not produce carbon emissions 
-Ethereum currently has a carbon footprint associated with creating blocks by mining
-ETH is what the majority of NFT marketplaces use, which is currently transitioning to PoS, which is expected in 2021 or 2022
-NFT art platforms running on more energy efficient Proof-of-Stake (PoS) networks are currently the best solution for creating NFTs without impacting the environment with high energy use 
-Offering PoS options would be a great course of action for existing NFT art platforms to take
-Carbon offsetting your artwork is great, but be aware it’s not the fix, it’s just a small individual step you can take
+- NFTs themselves do not produce carbon emissions. 
+- Ethereum currently has a carbon footprint associated with creating blocks by mining.
+- ETH is what the majority of NFT marketplaces use, which is currently transitioning to PoS, which is expected in 2021 or 2022.
+- NFT art platforms running on more energy efficient Proof-of-Stake (PoS) networks are currently the best solution for creating NFTs without impacting the environment with high energy use. 
+- Offering PoS options would be a great course of action for existing NFT art platforms to take.
+- Carbon offsetting your artwork is great, but be aware it’s not the fix, it’s just a small individual step you can take.
 
 ### Source:
 
