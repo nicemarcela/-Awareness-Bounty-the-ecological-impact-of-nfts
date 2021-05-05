@@ -1,5 +1,7 @@
 # [Awareness Bounty] Immediate sustainable alternatives to reduce the ecological impact of NFTs
 
+![nft-carbon-footprint-explained_003](https://user-images.githubusercontent.com/58824632/117189329-6001ae80-adde-11eb-88d6-24c093d3613c.png)
+
 As the CryptoArt NFT market is exploding, there is a lack of clear information on the ecological impact of different approaches to NFTs. The purpose of this report is to help people who are interested in exploring more sustainable alternatives. 
 
 The CryptoArt NFT Market (i.e. selling digital art on the blockchain) is worth at least $150M - and this excludes some of the largest marketplaces like opensea.io, (and this figure is quite heavily skewed of course, with the top artists earning the most).
