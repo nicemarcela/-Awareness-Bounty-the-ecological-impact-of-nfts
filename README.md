@@ -10,7 +10,7 @@ Selling work on a blockchain can be a technically challenging task. For this rea
 
 By current estimations, a single Ethereum transaction consumes 48.14 kWh. For comparison, that’s just over one and a half days of energy consumption within the standard U.S. household. Now, multiply that by thousands of transactions daily and you can see how NFTs’ energy consumption takes its toll.
 
-As far as production and sales go, a single Ethereum transaction to purchase an NFT consumes less energy than making a t-shirt. Also, NFTs aren’t the only goods bought with Ethereum, so even if the art went elsewhere, there would still be transactions eating up energy.
+There are a few things to keep in mind here. As far as production and sales go, a single Ethereum transaction to purchase an NFT consumes less energy than making a t-shirt. Also, NFTs aren’t the only goods bought with Ethereum, so even if the art went elsewhere, there would still be transactions eating up energy.
 
 What may be more important to focus on is the impact of cryptocurrency in general. Some stats on Brightly.eco help bring this into focus explaining, “Bitcoin ‘mining’ already generates 38 million tons of CO2 per year, more than the carbon footprint of Slovakia.” Put in other terms, “The daily carbon footprint of Bitcoin is the equivalent of watching 57,000 hours of YouTube videos. And, its daily electricity usage is equivalent to the amount of power an average American household uses over the course of 25 days.”
 
