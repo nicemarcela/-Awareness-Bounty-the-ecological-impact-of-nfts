@@ -88,14 +88,14 @@ Currently, these more sustainable platforms do not have the volume of their unsu
 
 ### Source:
 
-https://inhabitat.com/understanding-nfts-and-energy-consumption/
-https://www.loop-news.com/p/the-big-problem-with-nfts-energy
-https://flash---art.com/2021/02/episode-v-towards-a-new-ecology-of-crypto-art/#
-https://cleannfts.org/
-https://docs.google.com/spreadsheets/d/1A-7Ama31sYWhXDl6NoJaXnbAV9pFbjxLIgl7jb3CHOs/edit#gid=0
-https://brightly.eco/environmental-impact-nfts/
-https://github.com/memo/eco-nft
-https://qz.com/1987590/the-carbon-footprint-of-creating-and-selling-an-nft-artwork/
+https://inhabitat.com/understanding-nfts-and-energy-consumption/  
+https://www.loop-news.com/p/the-big-problem-with-nfts-energy  
+https://flash---art.com/2021/02/episode-v-towards-a-new-ecology-of-crypto-art/#  
+https://cleannfts.org/  
+https://docs.google.com/spreadsheets/d/1A-7Ama31sYWhXDl6NoJaXnbAV9pFbjxLIgl7jb3CHOs/edit#gid=0  
+https://brightly.eco/environmental-impact-nfts/  
+https://github.com/memo/eco-nft  
+https://qz.com/1987590/the-carbon-footprint-of-creating-and-selling-an-nft-artwork/  
 
 Illustration by Liana Sposto
 
