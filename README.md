@@ -1,4 +1,4 @@
-# [Awareness Bounty] Immediate sustainable alternatives to reduce the ecological impact of nfts
+# [Awareness Bounty] Immediate sustainable alternatives to reduce the ecological impact of NFTs
 
 As the CryptoArt NFT market is exploding, there is a lack of clear information on the ecological impact of different approaches to NFTs. The purpose of this report is to help people who are interested in exploring more sustainable alternatives. 
 
